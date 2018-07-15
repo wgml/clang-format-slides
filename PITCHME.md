@@ -1,4 +1,4 @@
-## What have I clang-formatted?
+# What have I clang-formatted?
 
 Wojtek Gumuła
 
@@ -46,6 +46,8 @@ $ PAGER= git log --reverse --author Gumula --grep="clang-format" \
 ### Act III. Conclusion
 
 Second thoughts and dreams
+
+---
 
 ### Epilogue. Perpetuation
 
